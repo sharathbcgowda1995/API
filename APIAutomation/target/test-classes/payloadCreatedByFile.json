@@ -1,0 +1,9 @@
+{
+  "name" : "Sharath",
+  "age" : 17,
+  "skills" : [ "Java", "API Automation" ],
+  "details" : {
+    "companyname" : "CG",
+    "emailId" : "sharath@gmail.com"
+  }
+}
