@@ -5,8 +5,8 @@ import org.json.JSONObject;
 
 public class JavaResponseWithNestedParsing {
 
-	public static void parseObject(JSONObject json, String value) {
-		System.out.println(json.get(value));
+	public static void parseObject(JSONObject json, String key) {
+		System.out.println(json.get(key));
 	}
 
 	public static void getKey(JSONObject json, String key) {
